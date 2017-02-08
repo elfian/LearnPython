@@ -19,32 +19,3 @@ else:
     print("Content-type: text/html\n")
     print("Cookies:")
     print(name.value)
-if name is None:
-    print("Set-cookie: name=value one")
-    print("Content-type: text/html\n")
-    print("Cookies!!!")
-    print(loadTo("fff"))
-else:
-    print("Content-type: text/html\n")
-    print("Cookies:")
-    print(name.value)
-
-if name is None:
-    print("Set-cookie: name=value one")
-    print("Content-type: text/html\n")
-    print("Cookies!!!")
-    print(loadTo("fff"))
-else:
-    print("Content-type: text/html\n")
-    print("Cookies:")
-    print(name.value)
-
-if name is None:
-    print("Set-cookie: name=value one")
-    print("Content-type: text/html\n")
-    print("Cookies!!!")
-    print(loadTo("fff"))
-else:
-    print("Content-type: text/html\n")
-    print("Cookies:")
-    print(name.value)
